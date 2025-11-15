@@ -17,6 +17,7 @@ This project is created using Microsoft Power BI with the Superstore dataset.
 ## Files Included
 - Superstore.csv  
 - Task2_Report.pdf  
-- Task2_ElevateLabs.pbix  
-
+- Task2_ElevateLabs.pbix
+  
+## Result
 Submitted for Elevate Labs Data Analyst Internship Task 2.
