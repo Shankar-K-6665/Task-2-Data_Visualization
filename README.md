@@ -20,4 +20,4 @@ This project is created using Microsoft Power BI with the Superstore dataset.
 - Task2_ElevateLabs.pbix
   
 ## Result
-Submitted for Elevate Labs Data Analyst Internship Task 2.
+A complete and clear Power BI dashboard ready for visualization and analysis.
