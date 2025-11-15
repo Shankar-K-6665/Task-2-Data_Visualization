@@ -1,8 +1,8 @@
-Task 2 - Data Visualization & Storytelling (Elevate Labs Internship)
+#Task 2 - Data Visualization & Storytelling (Elevate Labs Internship)
 
 This project is created using Microsoft Power BI with the Superstore dataset.
 
-📊 Visuals Created
+#📊 Visuals Created
 Sales by Category
 Sales by Region
 Profit by Sub-Category
@@ -10,12 +10,12 @@ Monthly Sales Trend
 Top 5 Customers by Sales
 
 
-📈 KPIs
+#📈 KPIs
 Total Profit
 Total Sales
 
 
-📁 Files Included
+#📁 Files Included
 Superstore.csv
 Task2_Report.pdf
 Task2_ElevateLabs.pbix
