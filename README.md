@@ -1,4 +1,5 @@
-#Task 2 - Data Visualization & Storytelling (Elevate Labs Internship)
+Task 2 - Data Visualization & Storytelling (Elevate Labs Internship)
+
 
 This project is created using Microsoft Power BI with the Superstore dataset.
 
